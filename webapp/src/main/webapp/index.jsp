@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Phones offers are available till 1st Jan 2030 </h1>   
+         <h1> Refregrators and Washing machine offers are available till year end </h1>   
 	 
 
     </section>    
