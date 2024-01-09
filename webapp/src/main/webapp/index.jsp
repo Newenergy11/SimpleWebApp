@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Refregrators and Washing machine offers are available till year end </h1>   
+         <h1> Learn Devops in style </h1>   
 	 
 
     </section>    
