@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Learn Devops in style </h1>   
+         <h1> Laptop offer till January 11th 2024 </h1>   
 	 
 
     </section>    
